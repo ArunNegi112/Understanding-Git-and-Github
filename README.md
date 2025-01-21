@@ -1,2 +1,2 @@
-# Understanding-Git-and-Github
-Understanding Git and Github 
+## _Understanding-Git-and-Github_
+By - Arun Negi
